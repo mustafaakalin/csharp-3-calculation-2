@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QhW/y0cI+jcLFl7HumSd6t1VxaHUI9caHf7uv4R4Ly0ZsfSHcWRrx+5pt2CgHirhSnEHcw0hikCfrBwUlZuHmA==",
+  "success": true,
+  "projectFilePath": "/home/mustafa/Documents/projects/csharp/csharp-3-calculation-2/csharp-3-calculation-2.csproj",
+  "expectedPackageFiles": [
+    "/home/mustafa/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
